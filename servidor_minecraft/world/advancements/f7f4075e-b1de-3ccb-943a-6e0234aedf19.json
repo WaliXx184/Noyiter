@@ -1,0 +1,27 @@
+{
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "rainforest": "2024-12-22 01:30:19 +0000"
+    },
+    "done": false
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2024-12-22 01:30:18 +0000"
+    },
+    "done": true
+  },
+  "ags_day_counter:day_counter_root_advancement": {
+    "criteria": {
+      "day_counter_root_advancement_0": "2024-12-22 01:30:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "rainforest": "2024-12-22 01:30:19 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

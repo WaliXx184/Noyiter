@@ -1684,3 +1684,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Dec2024 01:30:55.630] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Feriziul (f7f4075e-b1de-3ccb-943a-6e0234aedf19) successfully connected to voice chat
 [22Dec2024 01:32:18.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Feriziul: Set own game mode to Spectator Mode]
 [22Dec2024 01:32:50.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Feriziul: Set own game mode to Creative Mode]
+[22Dec2024 01:35:43.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Feriziul: Set the time to 1000]
+[22Dec2024 01:36:09.418] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f7f4075e-b1de-3ccb-943a-6e0234aedf19 timed out
+[22Dec2024 01:36:09.419] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Feriziul
+[22Dec2024 01:36:09.419] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Feriziul
+[22Dec2024 01:36:18.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Feriziul lost connection: Timed out
+[22Dec2024 01:36:18.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feriziul left the game
+[22Dec2024 01:36:18.818] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Feriziul
