@@ -1,27 +1,10 @@
 {
-  "biomesoplenty:biomesoplenty/all_biomes": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "rainforest": "2024-12-22 01:30:19 +0000"
+      "minecraft:river": "2024-12-23 19:50:17 +0000",
+      "minecraft:plains": "2024-12-23 19:45:38 +0000"
     },
     "done": false
   },
-  "mekanism:root": {
-    "criteria": {
-      "automatic": "2024-12-22 01:30:18 +0000"
-    },
-    "done": true
-  },
-  "ags_day_counter:day_counter_root_advancement": {
-    "criteria": {
-      "day_counter_root_advancement_0": "2024-12-22 01:30:18 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "rainforest": "2024-12-22 01:30:19 +0000"
-    },
-    "done": true
-  },
-  "DataVersion": 3465
+  "DataVersion": 3120
 }
